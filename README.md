@@ -1,4 +1,4 @@
-# 🎯 Online BGMI Quiz Platform
+# 🎯 AIML Quiz Platform
 
 A modern, full-stack web application for taking online quizzes with real-time scoring and leaderboard functionality.
 
@@ -19,7 +19,6 @@ A modern, full-stack web application for taking online quizzes with real-time sc
 - **Database**: SQLite with Entity Framework Core
 - **Styling**: Modern CSS with gradients and animations
 
-## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -161,5 +160,3 @@ This project is open source and available under the MIT License.
 Feel free to submit issues, feature requests, and pull requests!
 
 ---
-
-**Happy Quizzing! 🎉**
